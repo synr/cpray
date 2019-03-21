@@ -3442,7 +3442,7 @@ input, select, textarea {
 			}
 
 				#header br {
-					display: none;
+					/*display: none;*/ /*2019*/
 				}
 
 		/* Footer */
